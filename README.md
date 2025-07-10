@@ -10,4 +10,4 @@
 
 这些平台提供海量麻豆系列视频资源，分类清晰、更新及时，方便用户快速查找自己感兴趣的内容。每部影片页面均提供详细信息，包括时长、主演和清晰度等。支持高清视频播放，系统可根据网络环境自动调整画质，保障流畅播放体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang20250710 ）</span>
